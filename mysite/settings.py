@@ -25,7 +25,7 @@ SECRET_KEY = 'v=!7kteh%4kan978+^ur@=id6o+-bx8)8=me8c4$i1t_7!iad1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['hariecommerce.pythonanywhere.com','127.0.0.1']
+ALLOWED_HOSTS = ['ecommerce.pythonanywhere.com','127.0.0.1']
 
 
 
